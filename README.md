@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @belladonna1996
-- 👀 I’m interested in learning how to code!
+- 👀 I’m interested in learning how to code like a master! :) 
 - 🌱 I’m currently learning HTML, CSS and JavaScript <3
 - 💞️ I’m looking to collaborate on a development project in a software company.
 - 📫 You can reach me by email: luanatrindade.psi@gmail.com OR 96belladonna@gmail.com
